@@ -15,7 +15,7 @@ Services available at:
 ## Connect Scrapy Item Pipeline to Kafka Cluster
 Please refer to [os-scrapy-kafka-pipeline](https://pypi.org/project/os-scrapy-kafka-pipeline/). .
 
-Default kafka brokers' addresses are ["192.168.1.5:9092","192.168.1.5:9093","192.168.1.5:9094"] (configured in `docker-compose.yml`)
+Default kafka brokers' addresses are ["192.168.1.5:9092","192.168.1.5:9093","192.168.1.5:9094"] (configured in `docker-compose.yml`).
 
 ## Credits
 1. [big-data-europe/docker-hadoop](https://github.com/big-data-europe/docker-hadoop)

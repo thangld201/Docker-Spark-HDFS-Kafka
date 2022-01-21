@@ -12,7 +12,7 @@ Services available at:
 * Spark: localhost:8080
 * Hadoop: localhost:9870
 
-## Credit
+## Credits
 1. [big-data-europe/docker-hadoop](https://github.com/big-data-europe/docker-hadoop)
 2. [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)
 3. [cluster-apps-on-docker/spark-standalone-cluster-on-docker](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker)

@@ -13,7 +13,7 @@ Services available at:
 * Hadoop: [localhost:9870](http://localhost:9870)
 
 ## Connect Scrapy Item Pipeline to Kafka Cluster
-Please refer to [os-scrapy-kafka-pipeline](https://pypi.org/project/os-scrapy-kafka-pipeline/). .
+Please refer to [os-scrapy-kafka-pipeline](https://pypi.org/project/os-scrapy-kafka-pipeline/).
 
 Default kafka brokers' addresses are ["192.168.1.5:9092","192.168.1.5:9093","192.168.1.5:9094"] (configured in `docker-compose.yml`).
 
